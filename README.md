@@ -10,8 +10,6 @@
     - Ambiente
     - Relação com robocode
    - Vamos ver na prática.
-## Quem sou eu?
-
 
 ## O que é Robocode?
 O Robocode é um jogo de batalhas entre robôs (tanques) virtuais programados. Se popularizou na IBM e utiliza da linguagem de programação Java (ou .NET) para desenvolver a inteligência artificial dos robôs em questão. As batalhas são acompanhadas em tempo real com representação gráfica. O Robocode é uma ferramenta bem conceituada para a aplicação dos conhecimentos em programação e inteligência artificial. O intuito do jogo é: desenvolver os conhecimentos citados anteriormente e, através disso, criar uma inteligência artificial mais eficaz para que seu tanque destrua seus oponentes.
