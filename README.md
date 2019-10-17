@@ -1,7 +1,6 @@
 # Curso de Robocode
 
 ## Quem sou eu
-  - Jackson Barbosa (IG, Wpp)
   - Técnico em informática pelo IFAL-Arapiraca(2016)
   - Graduando em Ciência da Computação pela UFAL Campus A.C. Simões
   - Desenvolvedor fullstack no laboratório de pesquisa EdgeBr em projeto junto a Petrobrás
