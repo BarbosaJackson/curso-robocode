@@ -1,5 +1,14 @@
 # Curso de Robocode
 
+## Quem sou eu
+  - Jackson Barbosa (IG, Wpp)
+  - Técnico em informática pelo IFAL-Arapiraca(2016)
+  - Graduando em Ciência da Computação pela UFAL Campus A.C. Simões
+  - Desenvolvedor fullstack no laboratório de pesquisa EdgeBr em projeto junto a Petrobrás
+  - Coordenador do grupo de extensão em maratonas de programação da UFAL (IG)
+  - Entusiasta de programação competitiva
+  - Organizador dos dois primeiros torneios de robocode IFAL(2014, 2015)
+  
 ## Sumário do curso
   - Robocode
     - O que é?
@@ -13,20 +22,20 @@
 
 ## O que é Robocode?
 O Robocode é um jogo de batalhas entre robôs (tanques) virtuais programados. Se popularizou na IBM e utiliza da linguagem de programação Java (ou .NET) para desenvolver a inteligência artificial dos robôs em questão. As batalhas são acompanhadas em tempo real com representação gráfica. O Robocode é uma ferramenta bem conceituada para a aplicação dos conhecimentos em programação e inteligência artificial. O intuito do jogo é: desenvolver os conhecimentos citados anteriormente e, através disso, criar uma inteligência artificial mais eficaz para que seu tanque destrua seus oponentes.
+
 ### Anatomia do rôbo
 Um robô é dividido, basicamente, em três partes, o canhão, o radar e por fim o corpo do veículo, veja a imagem representativa abaixo.
 
 ![anatomia_robo](anatomia-robo.jpg)
 
-### Agora vamos esmiuçar cada parte
+### Agora vamos esmiuçar o robô
   - Radar: o randar pode girar 360º e quando encontra um inimigo ativa um método chamado
   - Canhão: O canhão dispara balas de energia para atingir o inimigo
   - Veículo: O veículo da a movimentação do robô
 
 ## Conceitos gerais de IA
 ### O que é Inteligência Artificial?
-
-Inteligência artificial, de forma superficial, pode ser difinido como o estudo e construção para modelar sistemas inteligentes, sendo estes chamados de agentes inteligentes.
+Inteligência artificial, de forma superficial, pode ser definido como o estudo e desenvolvimento de modelos de sistemas inteligentes, para isso usa agentes inteligentes, que são aqueles que adotam a melhor ação possível diante de uma situação,
 
 ### Agentes
 
@@ -37,4 +46,4 @@ Os agentes são, de maneira geral, algo que percebe seu ambiente através de seu
 Um exemplo bem prático é: Quando queremos comer, usamos a visão e o olfato (sensores) para verificar se o alimento não está estragado, então utilizando das mãos e da boca atuamos sobre o ambiente pra comer - além de que, no ato de comer um outro sensor é ativado, o paladar.
 
 ## Referências
-  - !(UFRJ)[http://www.ufjf.br/jairo_souza/files/2015/11/Robocode-Manual-de-Instruc%CC%A7o%CC%83es.pdf]
+  - [UFRJ](http://www.ufjf.br/jairo_souza/files/2015/11/Robocode-Manual-de-Instruc%CC%A7o%CC%83es.pdf)
