@@ -5,6 +5,7 @@
   - Técnico em informática pelo IFAL-Arapiraca(2016)
   - Graduando em Ciência da Computação pela UFAL Campus A.C. Simões
   - Desenvolvedor fullstack no laboratório de pesquisa EdgeBr em projeto junto a Petrobrás
+  - Monitor de programação no Instituto de Computação da UFAL
   - Coordenador do grupo de extensão em maratonas de programação da UFAL (IG)
   - Entusiasta de programação competitiva
   - Organizador dos dois primeiros torneios de robocode IFAL(2014, 2015)
