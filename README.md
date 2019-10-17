@@ -29,9 +29,36 @@ Um robô é dividido, basicamente, em três partes, o canhão, o radar e por fim
 ![anatomia_robo](anatomia-robo.jpg)
 
 ### Agora vamos esmiuçar o robô
-  - Radar: o randar pode girar 360º e quando encontra um inimigo ativa um método chamado
+  - Radar: o randar pode girar 360º e quando encontra um inimigo ativa o método OnScannedRobot(ScannedRobotEvent e)
   - Canhão: O canhão dispara balas de energia para atingir o inimigo
   - Veículo: O veículo da a movimentação do robô
+
+### Detecção do inimigo
+O método abaixo é executado sempre que o radar encontra um inimigo, nele você deve desenvolver a lógica do robô ao encontrar um inimigo
+```Java
+public void onScannedRobot(ScannedRobotEvent e) {
+
+}
+```
+Através do evento gerado e recebido por parametro através da variável **e** podemos acessar algumas informações do tanque inimigo
+
+### Tiros
+  Ao encontrar um inimigo com o radar você pode atirar balas de energia através do canhão para o atingir e diminuir a energia do inimigo e recuperar a sua, o método usado para fazer com que o canhão atire é o **fire**.
+```Java
+public void OnScannedRobot(ScannedRobotEvent e) {
+  fire(1);
+}
+```
+## Perda de energia
+Existem **duas** formas de perder energia em uma batalha:
+  - Tomar dano por se chocar com as paredes do campo de batalha
+    - Toda vez que o seu robô se chocar com a parede o método **onHitWall(HitWallEvent e)** será disparado e através dele você pode tomar as decisões de **o que fazer daqui em diante**.
+  - Tomar dano de um disparo inimigo
+    - Toda vez que o seu robô for atingido por uma bala inimiga o método **onHitByBullet(HitByBullet e)** é disparado e através dele você determina o que o robô deve fazer nessa situação.
+    
+
+
+No código acima, quando o radar encontrar um inimigo ele dispara uma bala de energia com potência 1, vale lembrar que o canhão se move junto do radar, dessa forma, o canhão atira para onde o radar estiver focando
 
 ## Conceitos gerais de IA
 ### O que é Inteligência Artificial?
