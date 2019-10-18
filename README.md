@@ -74,3 +74,4 @@ Um exemplo bem prático é: Quando queremos comer, usamos a visão e o olfato (s
 
 ## Referências
   - [UFRJ](http://www.ufjf.br/jairo_souza/files/2015/11/Robocode-Manual-de-Instruc%CC%A7o%CC%83es.pdf)
+  - [UNICAMP](https://liag.ft.unicamp.br/wp-content/uploads/2016/03/Robocode.pdf)
