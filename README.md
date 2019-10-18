@@ -62,7 +62,7 @@ No código acima, quando o radar encontrar um inimigo ele dispara uma bala de en
 
 ## Conceitos gerais de IA
 ### O que é Inteligência Artificial?
-Inteligência artificial, de forma superficial, pode ser definido como o estudo e desenvolvimento de modelos de sistemas inteligentes, para isso usa agentes inteligentes, que são aqueles que adotam a melhor ação possível diante de uma situação,
+Inteligência artificial, de forma superficial, pode ser definido como o estudo e desenvolvimento de modelos de sistemas inteligentes. Para isso, pode-se usar agentes inteligentes, que são aqueles que adotam a melhor ação possível diante de uma situação.
 
 ### Agentes
 
