@@ -60,7 +60,7 @@ Existem **duas** formas de perder energia em uma batalha:
 
 No código acima, quando o radar encontrar um inimigo ele dispara uma bala de energia com potência 1, vale lembrar que o canhão se move junto do radar, dessa forma, o canhão atira para onde o radar estiver focando
 
-## Conceitos gerais de IA
+## Conceitos gerais de Inteligência Artificial
 ### O que é Inteligência Artificial?
 Inteligência artificial, de forma superficial, pode ser definido como o estudo e desenvolvimento de modelos de sistemas inteligentes. Para isso, pode-se usar agentes inteligentes, que são aqueles que adotam a melhor ação possível diante de uma situação.
 
